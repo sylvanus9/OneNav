@@ -29,7 +29,7 @@ body {
     height: 100%;
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     background-color: #f2f2f2 !important;
-    background-image: url(https://img.imsyy.top/bg/light/leaves-pattern.png);
+/*     background-image: url(https://img.imsyy.top/bg/light/leaves-pattern.png); */
     background-attachment: fixed;
     transition: 0.3s;
     font-family: 'HarmonyOS_Regular', sans-serif !important;
